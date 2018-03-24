@@ -1,2 +1,3 @@
 # Practical-DataScience-Tutorial
-    A tutorial for airbnb webscraping and googlemap visualization.
+	author: QIYANG HE	   
+	A tutorial for airbnb webscraping and googlemap visualization.
